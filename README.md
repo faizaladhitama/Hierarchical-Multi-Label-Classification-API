@@ -1,6 +1,6 @@
 # Hierarchical-Multi-Label-Classification-API
 
-This API can predict text and classify it as hate speech and/or abusive language. If text classified as hate speech, then it will show hate speech characteristic of that text.
+This API can predict text and classify it as hate speech and/or abusive language for **Indonesian Language** because this model only trained by Indonesian Language data. If text classified as hate speech, then it will show hate speech characteristic of that text.
 This API is a result of my paper. For reference, you can copy paste **.bib** file that i uploaded or text below.
 
 ```bib
