@@ -36,7 +36,7 @@ numpy==1.16.1
 oauthlib==3.0.1
 packaging==19.1
 pandas==0.24.1
-Pillow==6.2.0
+Pillow==7.1.0
 protobuf==3.6.1
 pycparser==2.19
 PyJWT==1.4.2
