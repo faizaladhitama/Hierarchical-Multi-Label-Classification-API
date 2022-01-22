@@ -32,7 +32,7 @@ monotonic==1.5
 mysql-connector==2.2.9
 mysql-connector-python==8.0.13
 nltk==3.6.6
-numpy==1.16.1
+numpy==1.21.0
 oauthlib==3.0.1
 packaging==19.1
 pandas==0.24.1
