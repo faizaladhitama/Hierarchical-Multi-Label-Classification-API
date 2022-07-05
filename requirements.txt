@@ -30,7 +30,7 @@ MarkupSafe==1.1.1
 matplotlib==3.0.2
 monotonic==1.5
 mysql-connector==2.2.9
-mysql-connector-python==8.0.13
+mysql-connector-python==8.0.14
 nltk==3.6.6
 numpy==1.21.0
 oauthlib==3.0.1
