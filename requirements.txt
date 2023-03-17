@@ -39,7 +39,7 @@ pandas==0.24.1
 Pillow==9.3.0
 protobuf==3.18.3
 pycparser==2.19
-PyJWT==1.4.2
+PyJWT==2.4.0
 pymemcache==2.2.2
 pyparsing==2.4.2
 PySocks==1.6.8
