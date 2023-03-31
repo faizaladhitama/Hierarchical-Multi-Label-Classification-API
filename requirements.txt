@@ -49,7 +49,7 @@ python-engineio==3.9.2
 python-memcached==1.59
 python-socketio==4.3.0
 pytz==2019.2
-redis==3.3.6
+redis==4.4.4
 requests==2.22.0
 requests-oauthlib==1.2.0
 Sastrawi==1.0.1
