@@ -11,7 +11,7 @@ dj-database-url==0.5.0
 Django==2.2.28
 dnspython==1.16.0
 eventlet==0.31.0
-Flask==1.1.1
+Flask==2.3.2
 Flask-Cors==3.0.9
 Flask-JWT==0.3.2
 Flask-Migrate==2.5.2
